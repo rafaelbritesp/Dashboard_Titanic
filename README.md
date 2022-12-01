@@ -1,2 +1,2 @@
 # Dashboard_Titanic
-Dashboard com dados do titanic
+* Dashboard criado com Dash Plotly
